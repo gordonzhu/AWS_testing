@@ -3,7 +3,7 @@
 
 def hello():
     print('hello world')
-
+    print('3+2=5')
 
 
 hello()
